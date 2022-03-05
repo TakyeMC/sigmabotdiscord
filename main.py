@@ -6,7 +6,7 @@ import os
 from discord.ext import commands
 import asyncio
 client = commands.Bot(command_prefix='.')
-token = 'ODkxNjM1ODY5MTQ3MDkwOTY1.YVBOnA.pmaqSTjM4vs0C5dkwEwmuP6O6xo'
+token = 'BOT_TOKEN'
 
 
 
